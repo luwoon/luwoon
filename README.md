@@ -1,4 +1,4 @@
-### Hi there.👋 Here, you can find my SQL and R portfolio. Feel free to drop by https://luwoon.github.io/ too!
+### Hi there!👋
 
 <!--
 **luwoon/luwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
